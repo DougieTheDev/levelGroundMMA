@@ -15,4 +15,5 @@ CSS3<br>
 Styled the website to be clean and professional, with a responsive layout to ensure compatibility across devices. The design was kept simple to allow easy navigation and readability.<br>
 
 ## Lesson learned
-I gained more insight into web accessibility by making sure text contrast, button sizes, and other design elements were easy to read and interact with on different devices.
+I gained more insight into web accessibility by making sure text contrast, button sizes, and other design elements were easy to read and interact.<br>
+I also focused on creating a simple, intuitive design for easy navigation, particularly for users who may not be familiar with the gym or the sport.
