@@ -7,3 +7,7 @@ Link to project <a href="https://dougiethedevlgmma.netlify.app">here</a>!
 <br>
 <br>
 ![Alt text](leveGround/p2.png)
+
+## Tech Used
+HTML5<br>
+CSS3<br>
